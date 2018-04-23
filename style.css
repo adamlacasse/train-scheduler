@@ -1,8 +1,10 @@
-#inputSection{
-    background-image: url("images/train1.png");
+.pageTitle{
+    background-image: url("images/tracks3.jpg");
     color: white;
 }
 
-#sideImage{
-    height: 100%;
+#inputSection{
+    background-image: url("images/tracks1.jpg");
+    color: white;
 }
+
